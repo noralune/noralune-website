@@ -35,7 +35,7 @@ export default function NoraluneWebsite() {
       status: "Breeding female",
     },
     {
-      name: "Luna",
+      name: "S*Gunbertus Noxx",
       img: "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=900&q=80",
       pedigree: "#",
       color: "Seal Mitted",

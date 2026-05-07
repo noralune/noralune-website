@@ -39,7 +39,7 @@ export default function NoraluneWebsite() {
       img: "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=900&q=80",
       pedigree: "#",
       color: "Seal Mitted",
-      status: "Breeding female",
+      status: "Breeding male",
     },
     {
       name: "Milo",

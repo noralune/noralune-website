@@ -42,7 +42,7 @@ export default function NoraluneWebsite() {
       status: "Breeding male",
     },
     {
-      name: "S*Gunbertus Noxx",
+      name: "Maxx",
       img: "https://images.unsplash.com/photo-1511044568932-338cba0ad803?auto=format&fit=crop&w=900&q=80",
       pedigree: "#",
       color: "Blue Point",

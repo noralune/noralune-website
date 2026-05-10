@@ -42,7 +42,7 @@ export default function NoraluneWebsite() {
       status: "Breeding male",
     },
     {
-      name: "Milo",
+      name: "S*Gunbertus Noxx",
       img: "https://images.unsplash.com/photo-1511044568932-338cba0ad803?auto=format&fit=crop&w=900&q=80",
       pedigree: "#",
       color: "Blue Point",
